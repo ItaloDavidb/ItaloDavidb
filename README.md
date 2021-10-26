@@ -1,4 +1,5 @@
-## Hi i'am Italo and i'am a front-end developer
+## Hi i'am Italo 
+- :computer: Front-End
 - :clipboard: Studying to become a full-stack
 - :smiley: Pronoums: He/Him
 - :brazil: 
