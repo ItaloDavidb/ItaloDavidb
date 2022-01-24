@@ -20,11 +20,12 @@
 
  ### Tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="Italo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  <img align="center" alt="Italo-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Italo-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Italo-Nodejs" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Italo-vsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Italo-mysql" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Italo-mongodb" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Italo-express" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Italo-Nodejs" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Italo-Nodejs height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 --- 
@@ -39,5 +40,5 @@
 </div> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/karanalpe/)
-  > # About Me
+  > # About Me 🍃
   - Just someone who wants to deliver a world better than when i've found it
