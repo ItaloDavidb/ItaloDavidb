@@ -39,6 +39,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloDavidb&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/karanalpe/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/italo-alves-01457a1a6/)
   > # About Me 🍃
   - Just someone who wants to deliver a world better than when i've found it
