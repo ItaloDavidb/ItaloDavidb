@@ -4,7 +4,7 @@
 - :smiley: Pronoums: He/Him
 - 🇧🇷
 
-<div class="tenor-gif-embed" data-postid="16797466" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/%E0%B8%94%E0%B8%AB-pond-fish-pond-fishes-gif-16797466">ดห Pond GIF</a>from <a href="https://tenor.com/search/%E0%B8%94%E0%B8%AB-gifs">ดห GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>---
+
 > # Skills 🛠
  ### Languages
 
