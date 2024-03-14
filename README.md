@@ -1,5 +1,4 @@
-> # Hi i'am Italo 😙
-- 👾 Computer Engineering Student
+> # Hi i'am Italo 
 - :computer: Back-End
 - :clipboard: Studying to become a full-stack
 - :smiley: Pronoums: He/Him
