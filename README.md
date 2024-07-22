@@ -3,7 +3,6 @@
 - :smiley: Pronoums: He/Him
 - 🇧🇷
 
-![](https://media1.tenor.com/m/RgqdCjCeBOoAAAAC/%E0%B8%94%E0%B8%AB-pond.gif)
 > # Skills 🛠
  ### Languages
 
